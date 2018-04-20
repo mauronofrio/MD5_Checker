@@ -1,0 +1,12 @@
+c:\users\mauro\source\repos\md5 checker\md5 checker\bin\Debug\md5 checker.exe.config
+c:\users\mauro\source\repos\md5 checker\md5 checker\bin\Debug\md5 checker.exe
+c:\users\mauro\source\repos\md5 checker\md5 checker\bin\Debug\md5 checker.pdb
+c:\users\mauro\source\repos\md5 checker\md5 checker\bin\Debug\md5 checker.xml
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.vbprojResolveAssemblyReference.cache
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5_checker.Form1.resources
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5_checker.Resources.resources
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.vbproj.GenerateResource.cache
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.vbproj.CoreCompileInputs.cache
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.exe
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.xml
+c:\users\mauro\source\repos\md5 checker\md5 checker\obj\Debug\md5 checker.pdb
